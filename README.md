@@ -1,4 +1,7 @@
 # RuchTramwajowy
+
+[ IGNORE FRONT ]
+
 projekt aplikacji która symuluje czas przejazdu tramwajów różnych linii w zależności od sytuacji na trasie (symulacja agentowa)
 
 można wybrać kilka modeli tramwaju i przypisać go do wybranej linii, następnie ustawić czas odjazdu (czasy odjazdu wszystkich kursów muszą zmieścić się w 60 minutach od punktu rozpoczęcia symulacji)
